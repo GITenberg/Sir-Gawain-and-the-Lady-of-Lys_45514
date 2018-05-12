@@ -20,6 +20,8 @@ covers:
 - cover_type: archival
   image_path: 45514-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45514#Sir-Gawain-and-the-Lady-of-Lys
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '2014-04-27'
 gutenberg_type: Text
